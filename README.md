@@ -1,2 +1,8 @@
 # azj_rating_middleware_cli-version
 因子分析引擎
+用因子分析的方式处理教师的评级
+让评级更加科学
+
+具体信息请进入azj_rating项目本身
+这个版本是cli版本
+另一个作为Django中间件的版本不便上传

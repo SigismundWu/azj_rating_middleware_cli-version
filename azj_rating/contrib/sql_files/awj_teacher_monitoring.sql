@@ -1,0 +1,1 @@
+SELECT * FROM awj_teacher_awjcls_lesson_monitorings

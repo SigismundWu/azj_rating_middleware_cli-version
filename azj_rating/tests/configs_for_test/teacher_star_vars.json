@@ -1,0 +1,6 @@
+[
+    "./tests/examples_FAM/data_pre_proc/",
+    "./tests/examples_FAM/data_pre_proc/star_rate.json",
+    "../contrib/sql_files/",
+    "../contrib/"
+]

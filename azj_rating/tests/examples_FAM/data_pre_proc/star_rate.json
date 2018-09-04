@@ -1,0 +1,7 @@
+[
+   {"stars":"five_star_rate", "rate":0.2},
+   {"stars":"four_star_rate", "rate":0.5},
+   {"stars":"three_star_rate", "rate":0.8},
+   {"stars":"two_star_rate", "rate":0.9},
+   {"stars":"one_star_rate", "rate":1.0}
+]
